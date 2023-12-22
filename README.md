@@ -24,8 +24,8 @@ The project aims to demonstrate the practical usage of mouse events in JavaScrip
 
 ## To-do List
 
-- [ ] Explore different mouse events.
-- [ ] Refactor code for better optimization and readability.
+- [x] Explore different mouse events.
+- [x] Refactor code for better optimization and readability.
 
 ## Screenshots
 
